@@ -15,3 +15,8 @@
 ### Check types
 
 - `npm run check:types`
+
+### Code style
+
+- `npm run lint`
+- `npm run lint:fix`
